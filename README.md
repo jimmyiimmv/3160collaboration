@@ -2,14 +2,9 @@
  group project
 
 Nathan Adams
-Nathan Adams
-James Cao
 James Cao
 Taylor Ford
-Taylor Ford
 Irada Talyshkhanova
-Irada Talyshkhanova
-Jontai Xaysombath
 Jontai Xaysombath
 
 Outline:
