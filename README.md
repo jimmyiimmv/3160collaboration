@@ -1,7 +1,7 @@
 # 3160 Project
 Nathan Adams\
 James Cao\
-Taylor Ford\
+Sebastian Palacios\
 Irada Talyshkhanova\
 Jontai Xaysombath
 ## Outline:
