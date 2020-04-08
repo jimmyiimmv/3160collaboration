@@ -10,7 +10,7 @@ The goal of this collaborative group project is to create a test database for a 
 
 ---
 #### Use Case
-![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/UseCaseDiagram.png "UseCaseDiagram")
+![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/UseCaseDiagram.PNG "UseCaseDiagram")
 
 ---
 #### Business Rules
