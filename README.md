@@ -14,8 +14,14 @@ The goal of this collaborative group project is to create a test database for a 
 
 ---
 #### Business Rules
-
-
+1.	One person can be a student, facility, or staff.
+2.	Student can be a driver, and a driver can be a student. Faculty or Staff cannot be a driver. 
+3.	One Person can request many different orders, but an order can only have one Person. 
+4.	A restaurant can have many locations, but a location can only have one restaurant. 
+5.	A restaurant can have many order’s, but an order can only have one restaurant.
+6.	A driver can have many orders, but an order can only have one driver. 
+7.	A driver can only have one data hired, but date hired can have multiple drivers.
+8.	A driver can have many ratings, but each rating is only associated with one driver. 
 ---
 #### EERD
 ![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/EERDcollab1.1.png "EERD")
