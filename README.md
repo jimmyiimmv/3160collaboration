@@ -11,6 +11,7 @@ The goal of this collaborative group project is to create a test database for a 
 ---
 #### Use Case
 ![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/UseCaseDiagram.PNG "UseCaseDiagram")
+A customer can place an order at a restaurant and make a payment. A staff member creates the order and notifies the delivery person once it is ready. The driver picks up the food and delivers it to the customer. The customer can rate the driver and give any feedback they would like once the food is delivered. A new staff member can be added to the delivery service by the manager. The manager can also update staff information. 
 
 ---
 #### Business Rules
