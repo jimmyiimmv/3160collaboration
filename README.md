@@ -26,7 +26,7 @@ A customer can place an order at a restaurant and make a payment. A staff member
 8.	A driver can have many ratings, but each rating is only associated with one driver. 
 ---
 #### EERD
-![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/EERDcollab1.1.png "EERD")
+![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/EERDModel.png "EERD")
 
 ---
 #### MySQL Queries (three)
