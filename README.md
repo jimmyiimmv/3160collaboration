@@ -33,18 +33,6 @@ A customer can place an order at a restaurant and make a payment. A staff member
 
 
 ---
-#### Trigger
-
-
----
-#### Stored Procedure
-
-
----
-#### Web/App Implementation (Optional) or Description of Future Work
-
-
----
 #### MySQL dump
 
 
