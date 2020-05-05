@@ -29,7 +29,7 @@ A customer can place an order at a restaurant and make a payment. A staff member
 ![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/EERDModel.png "EERD")
 
 ---
-#### MySQL Queries (three)
+#### MySQL Queries
 
 
 ---
