@@ -32,29 +32,8 @@ A customer can place an order at a restaurant and make a payment. A staff member
 #### MySQL Queries
 
 ![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/Advanced%20Query%20Subquery.png "Subquery")\
-SELECT DISTINCT\
-  driver.driver_id as "Driver ID",\
-  person.person_id as ID,\
-  person.person_name as "Name",\
-  person.person_email as Email,\
-  driver.license_number as "License Number",\
-  driver.date_hired as "Date Hired",\
-  driver.rating as Rating\
-FROM campus_eats.person as person, campus_eats.driver as driver\
-WHERE person.person_id IN (SELECT student_id FROM driver)\
-  AND person.person_id = driver.student_id\
-ORDER BY driver.driver_id\
 \
 ![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/Advanced%20Query%20Inner%20Join.png "Inner Join")\
-SELECT\
-  person.person_id as ID,\
-  person.person_name as "Name",\
-  person.person_email as Email,\
-  staff.position as Position,\
-  staff.is_admin as "Admin? (Y/N)"\
-FROM campus_eats.person as person\
-INNER JOIN campus_eats.staff as staff on staff.staff_id = person.person_id\
-ORDER BY person.person_name ASC
 
 ---
 #### MySQL dump
