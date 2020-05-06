@@ -51,7 +51,7 @@ SELECT\
   staff.is_admin as "Admin? (Y/N)"\
 FROM campus_eats.person as person\
 INNER JOIN campus_eats.staff as staff on staff.staff_id = person.person_id\
-ORDER BY person.person_name ASC\
+ORDER BY person.person_name ASC
 
 ---
 #### MySQL dump
