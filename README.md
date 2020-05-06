@@ -33,7 +33,7 @@ A customer can place an order at a restaurant and make a payment. A staff member
 
 ![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/Advanced%20Query%20Subquery.png "Subquery")\
 \
-![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/Advanced%20Query%20Inner%20Join.png "Inner Join")\
+![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/Advanced%20Query%20Inner%20Join.png "Inner Join")
 
 ---
 #### MySQL dump
