@@ -30,6 +30,8 @@ A customer can place an order at a restaurant and make a payment. A staff member
 
 ---
 #### MySQL Queries
+
+![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/Advanced%20Query%20Subquery.png "Subquery")\
 SELECT DISTINCT\
   driver.driver_id as "Driver ID",\
   person.person_id as ID,\
@@ -43,6 +45,7 @@ WHERE person.person_id IN (SELECT student_id FROM driver)\
   AND person.person_id = driver.student_id\
 ORDER BY driver.driver_id\
 \
+![alt text](https://github.com/jimmyiimmv/3160collaboration/blob/master/Advanced%20Query%20Inner%20Join.png "Inner Join")\
 SELECT\
   person.person_id as ID,\
   person.person_name as "Name",\
